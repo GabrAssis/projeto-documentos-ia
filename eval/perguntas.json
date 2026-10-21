@@ -1,0 +1,22 @@
+[
+  {
+    "pergunta": "Qual o prazo para pedir reembolso de uma despesa?",
+    "documento_esperado": "manual-reembolso-despesas.pdf"
+  },
+  {
+    "pergunta": "Quantos caracteres a senha precisa ter?",
+    "documento_esperado": "politica-seguranca-informacao.pdf"
+  },
+  {
+    "pergunta": "Quais dias da semana são presenciais obrigatórios?",
+    "documento_esperado": "politica-trabalho-hibrido.pdf"
+  },
+  {
+    "pergunta": "Qual o valor do auxílio home office?",
+    "documento_esperado": "politica-trabalho-hibrido.pdf"
+  },
+  {
+    "pergunta": "Quantos dias de férias o colaborador tem por ano?",
+    "documento_esperado": null
+  }
+]

@@ -1,0 +1,13 @@
+[server]
+# O observador de arquivos varre os módulos do transformers e enche o terminal
+# de erros "No module named 'torchvision'". Não precisamos dele: basta
+# recarregar a página depois de editar o código.
+fileWatcherType = "none"
+# Só este computador acessa. O padrão escuta a rede toda, e qualquer pessoa
+# nela usaria sua chave da API e enviaria arquivos.
+address = "127.0.0.1"
+# Limite de upload em MB (o padrão é 200).
+maxUploadSize = 20
+
+[browser]
+gatherUsageStats = false
